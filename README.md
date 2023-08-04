@@ -13,6 +13,8 @@ The batch pipeline involves extracting data from AWS S3 into PySpark DataFrame, 
 
 ### Architecture
 
+![image](https://github.com/saturn279/user-events-analytics/assets/45988700/5b8da7b2-b217-4ab5-8bdc-55386bf35f9e)
+
 **Staging**
 - Data Extraction
   - Reading the dataset from CSV files into PySpark DataFrames.
