@@ -72,6 +72,37 @@ Make sure you have the following tools and services set up before running the pi
 - Jupyter Notebook
 - PostgreSQL Server
 
+## Screenshots
+Here are some screenshots showcasing different aspects of the analytics pipeline:
+
+### Apache Superset
+![Apache Superset](Docs/Screenshots/Apache%20Superset.png)
+
+### Confluent Recorded Events
+![Confluent Recorded Events](Docs/Screenshots/Confluent%20Recorded%20Events.png)
+
+### Confluent Sinks
+![Confluent Sinks](Docs/Screenshots/Confluent%20Sinks.PNG)
+
+### Kafka Simulated Stream Generator
+![Kafka Simulated Stream Generator](Docs/Screenshots/Kafka%20simualated%20stream%20generator.png)
+
+### MongoDB Documents
+![MongoDB Documents](Docs/Screenshots/MongoDB%20Documents.png)
+
+### MongoDB Real-time Charts
+![MongoDB Real-time Charts](Docs/Screenshots/MongoDB%20Real-time%20Charts.png)
+
+### MongoDB Traffic
+![MongoDB Traffic](Docs/Screenshots/MongoDB%20Traffic.png)
+
+### Postgres Row Count
+![Postgres Row Count](Docs/Screenshots/Postgres%20Row%20Count.png)
+
+### S3 Saved Events
+![S3 Saved Events](Docs/Screenshots/S3%20saved%20events.PNG)
+
+
 ## References
 
 - [Apache Spark Documentation](https://spark.apache.org/docs/latest/)
