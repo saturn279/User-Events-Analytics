@@ -78,7 +78,8 @@ Make sure you have the following tools and services set up before running the pi
 Here are some screenshots showcasing different aspects of the analytics pipeline:
 
 ### Apache Superset
-![Apache Superset](Docs/Screenshots/Apache%20Superset.png)
+![image](https://github.com/saturn279/User-Events-Analytics/assets/45988700/2ce52885-9722-487f-b2ab-5c720675c66d)
+
 
 ### Confluent Recorded Events
 ![Confluent Recorded Events](Docs/Screenshots/Confluent%20Recorded%20Events.png)
